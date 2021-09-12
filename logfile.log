@@ -1,0 +1,4 @@
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-09-05T13:16:47.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/filmi...","timestamp":"2021-09-05T13:16:47.979Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-09-12T20:29:19.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/filmi...","timestamp":"2021-09-12T20:29:19.546Z"}
